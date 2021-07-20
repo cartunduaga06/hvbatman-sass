@@ -1,0 +1,111 @@
+header {
+  background: #e5e5e5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#prueba {
+  margin: 20px;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#logo-principal {
+  align-content: center;
+}
+
+#titulo {
+  background-color: #c4c4c4;
+  text-align: center;
+  height: auto;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  display: flex;
+  color: #005677;
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+  line-height: 84.69%;
+  letter-spacing: 4px;
+
+  align-items: left;
+  justify-content: left;
+  margin-inline-start: 75px;
+  margin-inline-end: 75px;
+}
+
+h3 {
+  display: flex;
+  text-align: justify;
+  padding: 5px;
+  padding-left: 15px;
+  letter-spacing: 4px;
+  
+  vertical-align: middle;
+  height: 30px;
+  left: 234px;
+  top: 358px;
+  background-color: #c4c4c4;
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+ 
+  color: #005677;
+  align-items: left;
+  justify-content: left;
+  margin-inline-start: 75px;
+  margin-inline-end: 75px;
+}
+
+#cursiva {
+  font-style: italic;
+}
+
+li {
+  font-family: Times New Roman;
+
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-inline-start: 75px;
+  margin-inline-end: 75px;
+}
+
+#academica {
+  grid-template-columns: 75px 1fr;
+  display: grid;
+  align-items: start;
+  margin-left: 20px;
+  margin-inline-start: 75px;
+  margin-inline-end: 75px;
+}
+
+#footer {
+  background: #005677;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  
+}
+
+h2 {
+  color: white;
+  font-size: 20px;
+  letter-spacing: 4px;
+}
